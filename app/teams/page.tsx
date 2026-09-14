@@ -1,0 +1,1 @@
+export default function Teams(){return <div className="mx-auto max-w-7xl px-4 py-12"><h1 className="text-4xl font-black">Teams</h1><p className="mt-4 text-gray-400">MPC teams are managed from the admin control center.</p></div>}
