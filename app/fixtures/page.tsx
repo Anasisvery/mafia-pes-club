@@ -1,0 +1,1 @@
+export default function Fixtures(){return <div className="mx-auto max-w-7xl px-4 py-12"><h1 className="text-4xl font-black">Fixtures & Results</h1><p className="mt-4 text-gray-400">Fixtures and scores are controlled centrally from MPC Admin.</p></div>}
