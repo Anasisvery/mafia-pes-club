@@ -1,0 +1,1 @@
+export default function AnnouncementsAdmin(){return <div className="mx-auto max-w-7xl px-4 py-12"><h1 className="text-3xl font-black">Announcements Admin</h1><p className="mt-3 text-gray-400">Use the main MPC Admin control center.</p></div>}
